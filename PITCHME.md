@@ -155,3 +155,21 @@
 - Kohanemisvõime
 - Inglise keele oskus
 @ulend
+
+---
+
+## Soovitusi
+
+@ul[text-09]
+- Kui eelnevalt pole programmeerimisega tegelenud, siis tasuks enne ülikooli astumist (näiteks suvel) ennast ette valmistada
+- Tase tudengitel on väga erinev
+- Ülikoolis pigem on tempo kiire ning oht maha jääda
+- Ole valmis iseseisvalt õppima (terve Internet on õppematerjale täis)
+- Ole valmis küsima ja suhtlema
+- Praktika on parem kui teooria
+- Aga teooria on ka vajalik
+@ulend
+
+---
+
+# aITäh!
