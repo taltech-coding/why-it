@@ -1,5 +1,9 @@
 .reveal h2 {
-    #color: fuchsia;
+    color: #aa1352;
+}
+
+.reveal h1 {
+    color: #aa1352;
 }
 
 .reveal .ul-overlay li {
@@ -7,3 +11,7 @@
 }
 
 .text-red { color: #CC0000 !important; }
+
+.reveal section > ul.ul12 {
+    font-size: 1.2em;
+}

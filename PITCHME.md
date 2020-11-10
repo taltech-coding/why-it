@@ -1,12 +1,13 @@
-@snap[north span-100]
-![IMAGE](taltech_logo.png)
-## Milleks õppida IT-d?
-@snapend
 
-@snap[south span-100]
+[drag=100 40, drop=top]
+![IMAGE](taltech_logo.png)
+
+[drag=100 30, drop=0 50]
+## Milleks õppida IT-d?
+
+[drag=100 20, drop=0 80]
 ### Ago Luberg
 #### Lektor
-@snapend
 
 ---
 
@@ -80,11 +81,14 @@
 
 ---?image=offices.jpg
 
+---?image=offices2020.jpg
+
 ---
 
-## Keskmine palk 2019
+[drag=100 10, drop=top]
+## Keskmine brutopalk 2019-2020
 
-![IMAGE](salary-2019.jpg)
+![drag=90 80, drop=10 20, stretch=true](salary-2019-2020.png)
 
 
 ---
@@ -99,7 +103,7 @@
 
 ## Kuidas aru saada, kas IT on mulle sobiv?
 
-@ul[text-09]
+@ul[text-11]
 - Kas sul on kirg tehnoloogia vastu?
 - Kas sul on huvi saada teada, kuidas asjad töötavad?
 - Kas sulle meeldib luua uusi huvitavaid asju?
@@ -114,7 +118,7 @@
 
 ## Ohukohad
 
-@ul[text-08]
+@ul[ul12]
 - Rutiini vähesus - pidevalt peab uusi tehnoloogiaid õppima, ajaga kaasas käima
 - Pidevalt tuleb õppida / areneda
 - Tööaeg pole piiratud (oht töötada öösel)
@@ -127,27 +131,27 @@
 
 ---
 
-### Programmeerimine on "lihtne"
+[drag=100 20, drop=0 0]
+## Programmeerimine on "lihtne"
 
-@div[left-50]
-@ul[text-09]
+[drag=50 100, drop=0 20]
+@ul
 - Selline reklaam demotiveerib mõnda inimest
 - Inimene proovib programmeerida, aga ei saa hakkama
   - Jääb mulje, et viga on temas
 - Tegelikult sõltub "lihtsus" konkreetsest probleemist
 - IT on rohkem kui programmeerimine
 @ulend
-@divend
 
-@div[right-30 fragment]
-![IMAGE](draw-horse.jpg)
-@divend
+
+![drag=50 100, drop=50 20, stretch=true](draw-horse.jpg)
 
 ---
-
+[drag=100 20, drop=0 0]
 ## Keda tööandja otsib?
-
+[drag=90 80, drop=10 20, set=align-left, fit=1.6]
 @ul
+- Motivatsioon
 - Suhtlemisoskus
 - Julgus küsida
 - Õppimisvõime
@@ -160,7 +164,7 @@
 
 ## Soovitusi
 
-@ul[text-09]
+@ul[text-13]
 - Kui eelnevalt pole programmeerimisega tegelenud, siis tasuks enne ülikooli astumist (näiteks suvel) ennast ette valmistada
 - Tase tudengitel on väga erinev
 - Ülikoolis pigem on tempo kiire ning oht maha jääda
