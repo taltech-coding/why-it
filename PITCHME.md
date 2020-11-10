@@ -146,7 +146,7 @@
 @ulend
 
 
-![drag=50 100, drop=50 20, stretch=true](draw-horse.jpg)
+![drag=40 80, drop=50 20, stretch=true](draw-horse.jpg)
 
 ---
 [drag=100 20, drop=0 0]
