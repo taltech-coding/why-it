@@ -92,6 +92,7 @@
 
 ![drag=90 80, drop=10 20, stretch=true](salary-2019-2020.png)
 
+---?image=covid-19.jpg
 
 ---
 
@@ -146,7 +147,7 @@
 @ulend
 
 
-![drag=40 80, drop=50 20, stretch=true](draw-horse.jpg)
+![drag=40 80, drop=50 20, stretch=true, set=fragment](draw-horse.jpg)
 
 ---
 [drag=100 20, drop=0 0]
@@ -179,3 +180,5 @@
 ---
 
 # aITäh!
+
+https://gitpitch.com/taltech-coding/why-it
